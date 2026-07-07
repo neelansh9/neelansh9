@@ -1,6 +1,6 @@
 # Hey, I'm Neelansh 👋
 
-I build thoughtful interfaces that feel as good as they look. <a target="_blank" href="http://neelansh.me"> www </a>.
+I build thoughtful interfaces that feel as good as they look. <a target="_blank" href="http://neelansh.me"> www </a>
 
 frontend • motion • performance • design systems
 
